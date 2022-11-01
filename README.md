@@ -58,3 +58,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
+<h3>Find me around the web 🌎:</h3>
+  <a href="https://twitter.com/pandeyyash_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyyash_" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/pandeyyash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandeyyash" height="30" width="40" />
+  </a>
