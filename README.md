@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/yashpandey002/yashpandey002/blob/93aa0d9c3cf16ab0881487ab5d44a73a054ce9cb/img/yashpandey002.png" alt="pandeyyash"/></a>
+<img align="center" src="https://github.com/yashpandey002/yashpandey002/blob/f51c95f71f21b2066cca8d3bea05dbca87688014/img/yashpandey002-banner.png" alt="pandeyyash"/></a>
 <h1>Hi there, I'm Yash Pandey👋👨‍💻</h1>
 <p>A CS undergraduate pursuing my BCA degree from Poornima University. I loves to solve problems using CODE & DESIGN, my major field of interests are Web development, Cloud computing and UI design other than that I am also trying to contributing to OPEN SOURCE. You can always find me either at front of my💻 or with ⚽ at ground.</p>
 <h3>Projects I worked/working on</h3>
