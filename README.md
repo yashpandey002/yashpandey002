@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Yash Pandey👋👨‍💻</h1>
-<p>A CS undergraduate pursuing my BCA degree from Poornima University. I loves to solve problems using CODE & DESIGN, my major field of interests are Web development, Cloud computing and UI design other than that I am also trying to contributing to OPEN SOURCE. You can always find me either at front of my💻 or with ⚽ at ground.</p>
+<p>I'm a CS undergraduate pursuing my BCA degree from Poornima University. I loves to solve problems using CODE & DESIGN, my major field of interests are Web development, Cloud computing and UI design, other than that I am also trying to contributing to OPEN SOURCE. You can always find me either at front of my💻 or with ⚽ at ground.</p>
 <h3>Projects I worked/working on</h3>
 <ul>
-  <li>TaskOn - A TODO app with CRUD and Login/Logout functionality.</li>
+  <li>TaskOn - A TODO app with CRUD functionality.</li>
   <li>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
   <li>Devity - A simple landing page for creative digital agency.</li>
   <li>FixAllFirst - Website for house repairing services built especialy to support old browsers.</li>
