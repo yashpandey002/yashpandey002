@@ -35,13 +35,13 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSql" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSql" height="40" />
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="40" />
 </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="c" width="40" height="40" />
@@ -51,7 +51,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git"  height="40" />
 </a>
 <h4>Design</h4>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -62,6 +62,6 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="pandeyyash_" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/pandeyyash" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pandeyyash" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pandeyyash" height="30"  />
 </a>
 <h3>Contact me at: pandeyyash002@gmail.com</h3>
