@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Yash Pandey👋👨‍💻</h1>
-<p>I'm a CS undergraduate pursuing my BCA degree from Poornima University. I loves to solve problems using CODE & DESIGN, my major field of interests are Web development, Cloud computing and UI design, other than that I am also trying to contributing to OPEN SOURCE. You can always find me either at front of my💻 or with ⚽ at ground.</p>
+<p>A CS undergraduate from Poornima University who loves to solve real-world problems using DESIGN & CODE and enjoy building new things out of it. Can discuss anytime, anywhere, anything about Computer Science, Web development, Cloud computing and UI design. An active OPEN SOURCE contributer. And ya a programmer who loves to play Football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
   <li>TaskOn - A TODO app with CRUD functionality.</li>
