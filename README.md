@@ -2,66 +2,66 @@
 <p>A CS undergraduate from Poornima University who loves to solve real-world problems using DESIGN & CODE and enjoy building new things out of it. Can discuss anytime, anywhere, anything about Computer Science, Web development, Cloud computing and UI design. An active OPEN SOURCE contributer. And ya a programmer who loves to play Football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
-  <li>TaskOn - A TODO app with CRUD functionality.</li>
-  <li>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
-  <li>Devity - A simple landing page for creative digital agency.</li>
-  <li>FixAllFirst - Website for house repairing services built especialy to support old browsers.</li>
+    <li>TaskOn - A TODO app with CRUD functionality.</li>
+    <li>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
+    <li>Devity - A simple landing page for creative digital agency.</li>
+    <li>FixAllFirst - Website for house repairing services built especialy to support old browsers.</li>
 </ul>
 <h3>My current Tech stack</h3>
-  
 <h4>Frontend</h4>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="50" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" width="40" height="40" />
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="40" height="40" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40" />
+</a>
 <h4>Backend</h4>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSql" width="40" height="40" />
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="40" />
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="c" width="40" height="40" />
+</a>
 <h4>Version control</h4>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/yashpandey002/yashpandey002/blob/94f8a7573a666c29cfea8286a12d05cda1da0c24/img/GitHub-Mark-64px.png" alt="git" width="40" height="40" />
-  </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" width="40" height="40" />
+</a>
 <h4>Design</h4>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
+</a>
 <h3>Find me around the web 🌎:</h3>
-  <a href="https://twitter.com/pandeyyash_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyyash_" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/pandeyyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandeyyash" height="30" width="40" />
-  </a>
-  
+<a href="https://twitter.com/pandeyyash_" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="pandeyyash_" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/pandeyyash" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pandeyyash" height="30" width="40" />
+</a>
 <h3>Contact me at: pandeyyash002@gmail.com</h3>
