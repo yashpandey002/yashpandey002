@@ -1,14 +1,13 @@
 <h1>Hi there, I'm Yash Pandey👋👨‍💻</h1>
-<p>A CS undergraduate from Poornima University who loves to solve real-world problems using DESIGN & CODE and enjoy building new things out of it. Can discuss anytime, anywhere, anything about Computer Science, Web development, Cloud computing and UI design. An active OPEN SOURCE contributer. And ya a programmer who loves to play Football⚽>>></p>
+<p>A CS undergrad who loves to solve real-world problems using DESIGN & CODE and enjoy building new things out of it. Can discuss anytime, anywhere, anything about Computer Science, Web development, Cloud computing and UI design. An active OPEN SOURCE contributer and ya a programmer who loves to play Football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
-    <li>TaskOn - A TODO app with CRUD functionality.</li>
-    <li>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
-    <li>Devity - A simple landing page for creative digital agency.</li>
-    <li>FixAllFirst - Website for house repairing services built especialy to support old browsers.</li>
+    <li><a src="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
+    <li><a src="https://github.com/yashpandey002/Omnifood"></a>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
+    <li><a src="https://github.com/yashpandey002/Devity">Devity</a> - A simple landing page for creative digital agency.</li>
+    <li><a src="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especialy to support old browsers.</li>
 </ul>
-<h3>My current Tech stack</h3>
-<h4>Frontend</h4>
+<h3>My Skiils</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="50" />
 </a>
@@ -27,7 +26,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40" />
 </a>
-<h4>Backend</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
 </a>
@@ -46,7 +44,6 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="c" width="40" height="40" />
 </a>
-<h4>Version control</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
 </a>
