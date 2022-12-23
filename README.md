@@ -2,10 +2,10 @@
 <p>A CS undergrad who loves to solve real-world problems using DESIGN & CODE and enjoy building new things out of it. Can discuss anytime, anywhere, anything about Computer Science, Web development, Cloud computing and UI design. An active OPEN SOURCE contributer and ya a programmer who loves to play Football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
-    <li><a src="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
-    <li><a src="https://github.com/yashpandey002/Omnifood"></a>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
-    <li><a src="https://github.com/yashpandey002/Devity">Devity</a> - A simple landing page for creative digital agency.</li>
-    <li><a src="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especialy to support old browsers.</li>
+    <li><a href="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
+    <li><a href="https://github.com/yashpandey002/Omnifood"></a>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
+    <li><a href="https://github.com/yashpandey002/Devity">Devity</a> - A simple landing page for creative digital agency.</li>
+    <li><a href="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especialy to support old browsers.</li>
 </ul>
 <h3>My Skiils</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -50,7 +50,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git"  height="40" />
 </a>
-<h4>Design</h4>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </a>
