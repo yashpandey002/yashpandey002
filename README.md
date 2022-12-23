@@ -3,7 +3,7 @@
 <h3>Projects I worked/working on</h3>
 <ul>
     <li><a href="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
-    <li><a href="https://github.com/yashpandey002/Omnifood"></a>Omnifood - A landing page website for Food-AI-recommendation startup.</li>
+    <li><a href="https://github.com/yashpandey002/Omnifood">Omnifood</a> - A landing page website for Food-AI-recommendation startup.</li>
     <li><a href="https://github.com/yashpandey002/Devity">Devity</a> - A simple landing page for creative digital agency.</li>
     <li><a href="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especialy to support old browsers.</li>
 </ul>
