@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Yash Pandey👋👨‍💻</h1>
-<p>A CS undergrad who loves to solve real-world problems using DESIGN & CODE and enjoy building new things out of it. Can discuss anytime, anywhere, anything about Computer Science, Web development, Cloud computing and UI design. An active OPEN SOURCE contributer and ya a programmer who loves to play Football⚽>>></p>
+<p>A CS undergrad who loves to solve real-world problems using DESIGN & CODE and enjoys building new things out of it. Always open to discussing Computer science, Web development, Cloud computing, and UI design. An active OPEN SOURCE contributor and ya a programmer who loves to play Football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
     <li><a href="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
