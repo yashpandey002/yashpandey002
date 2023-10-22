@@ -1,5 +1,5 @@
 <h1>Namaste, I'm Yash Pandey👋👨‍💻</h1>
-<p>A CS undergrad who loves to build things using DESIGN & CODE. Enthusiastic about Computer science, Web development, Cloud computing, and UI design. Committed to open source contributions and constantly learning. A programmer with a love for football⚽>>></p>
+<p>A CS undergrad who loves to build things using DESIGN & CODE. Enthusiastic about Computer science, Web development, Cloud computing, and UI design. Committed to open source contributions and constantly learning. And ya programmer with a love for football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
     <li><a href="https://github.com/yashpandey002/resume-builder">Tech Resume Builder</a> - Build your Tech Resume by just entering your details.</li>
