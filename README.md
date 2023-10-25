@@ -69,4 +69,4 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pandeyyash" height="30"  />
 </a>
 <h3>Email: </h3>
-<p>pandeyyash002@gmail.com</p>
+<h6>pandeyyash002@gmail.com</h6>
