@@ -68,4 +68,5 @@
 <a href="https://linkedin.com/in/pandeyyash" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pandeyyash" height="30"  />
 </a>
-<h3>Email: pandeyyash002@gmail.com</h3>
+<h3>Email: </h3>
+<p>pandeyyash002@gmail.com</p>
