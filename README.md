@@ -6,7 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-pandeyyash002%40gmail.com-blue)](mailto:pandeyyash002@gmail.com)
 
 - A budding Full-stack developer who loves to build things using DESIGN & CODE.
-- Majorly interested in CS, Web dev, Cloud computing, and UI design.
+- Building stuff with MERN stack majorly.
+- Interested in CS, Web dev, Cloud computing, and UI design.
 - Football⚽>>>
 
 ## Projects I am proud of
