@@ -1,36 +1,36 @@
-<h1>Namaste, I'm Yash Pandey👋👨‍💻</h1>
-<p>A CS undergrad who loves to build things using DESIGN & CODE. Enthusiastic about Computer science, Web development, Cloud computing, and UI design. Committed to open source contributions and constantly learning. And ya programmer with a love for football⚽>>></p>
-<h3>Projects I worked/working on</h3>
+<h1>Namaste, I'm Yash Pandey🙏👨‍💻</h1>
+- A budding Full-stack developer who loves to build things using DESIGN & CODE. 
+- Majorly interested in CS, Web dev, Cloud computing, and UI design. Committed to open source contributions and constantly learning. And ya programmer with a love for football⚽>>>
+<h3>Projects I am proud of</h3>
 <ul>
     <li><a href="https://github.com/yashpandey002/yash-server">Yash's Server</a> - A full-stack application for adding and viewing user profiles.</li>
-    <li><a href="https://github.com/yashpandey002/resume-builder">Tech Resume Builder</a> - Build your Tech Resume by just entering your details.</li>
+    <li><a href="https://github.com/yashpandey002/resume-builder">Tech Resume Builder(Working)</a> - Build your Tech Resume by just entering your details.</li>
     <li><a href="https://github.com/yashpandey002/react-to-do-app">React TODO App</a> - A Simple to-do app built using React.</li>
     <li><a href="https://github.com/yashpandey002/countrify">Countrify</a> - A simple app to search for any country's information using REST COUNTRIES API.</li>
     <li><a href="https://github.com/yashpandey002/esketch">Esketch</a> - Browser version of something between a sketchpad and an Etch-A-Sketch. Built with Vanilla Javascript.</li>
     <li><a href="https://github.com/yashpandey002/TaskOn">Rock Paper Scissors Game</a> - Famous Rock Paper Scissors game built using Vanilla Javascript.</li>
-<!--     <li><a href="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
-    <li><a href="https://github.com/yashpandey002/Omnifood">Omnifood</a> - A landing page website for Food-AI-recommendation startup.</li>
-    <li><a href="https://github.com/yashpandey002/Devity">Devity</a> - A simple landing page for creative digital agency.</li>
-    <li><a href="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especially to support old browsers.</li> -->
 </ul>
 <h3>My Skiilset</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="50" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="40" height="40" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" width="40" height="40" />
 </a>
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" />
 </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="40" height="40" />
-</a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="tailwind" width="40" height="40" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="tailwind" width="40" height="40" />
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="50" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="40" height="40" />
 </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40" />
