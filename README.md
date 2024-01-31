@@ -3,7 +3,7 @@
 [![GitHub /yashpandey002](https://img.shields.io/github/followers/yashpandey002?label=follow&style=social)](https://github.com/yashpandey002)
 [![Linkedin: Yash Pandey](https://img.shields.io/badge/-Yash%20Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pandeyyash/)](https://www.linkedin.com/in/pandeyyash/)
 [![Twitter: Yash Pandey](https://img.shields.io/twitter/follow/pandeyyash_?style=social)](https://twitter.com/pandeyyash_)
-[![Email: Yash Pandey](https://img.shields.io/email/email/pandeyyash002@gmail.com?style=email)](pandeyyash002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pandeyyash002%40gmail.com-red)](mailto:pandeyyash002@gmail.com)
 
 - A budding Full-stack developer who loves to build things using DESIGN & CODE.
 - Majorly interested in CS, Web dev, Cloud computing, and UI design.
