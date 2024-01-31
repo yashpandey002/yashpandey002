@@ -71,6 +71,3 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </a>
-
-<h3>Email: </h3>
-<a href="mailto:pandeyyash002@gmail.com">pandeyyash002@gmail.com</a>
