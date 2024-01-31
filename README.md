@@ -12,7 +12,7 @@
 ## Projects I am proud of
 
 - [Yash's Server](https://github.com/yashpandey002/yash-server) - A full-stack application for adding and viewing user profiles.
-- [Tech Resume Builder(Working)](https://github.com/yashpandey002/resume-builder) - Build your Tech Resume by just entering your details.
+- [Tech Resume Builder(In progress)](https://github.com/yashpandey002/resume-builder) - Build your Tech Resume by just entering your details.
 - [React TODO App](https://github.com/yashpandey002/react-to-do-app) - A Simple to-do app built using React.
 - [Countrify](https://github.com/yashpandey002/countrify) - A simple app to search for any country's information using REST COUNTRIES API.
 - [Esketch](https://github.com/yashpandey002/esketch) - Browser version of something between a sketchpad and an Etch-A-Sketch. Built with Vanilla Javascript.
