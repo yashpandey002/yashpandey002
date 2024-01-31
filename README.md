@@ -1,6 +1,13 @@
 <h1>Namaste, I'm Yash Pandey🙏👨‍💻</h1>
-- A budding Full-stack developer who loves to build things using DESIGN & CODE. 
-- Majorly interested in CS, Web dev, Cloud computing, and UI design. Committed to open source contributions and constantly learning. And ya programmer with a love for football⚽>>>
+[![GitHub /yashpandey002](https://img.shields.io/github/followers//yashpandey002?label=follow&style=social)](https://github.com//yashpandey002)
+[![Linkedin: Yash Pandey](https://img.shields.io/badge/-Yash%Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-verma-938924169/)](https://www.linkedin.com/in/pandeyyash/)
+[![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/pandeyyash_)
+<ul>
+    <li>A budding Full-stack developer who loves to build things using DESIGN & CODE.</li>
+    <li>Majorly interested in CS, Web dev, Cloud computing, and UI design.</li>
+    <li>Football⚽>>></li>
+</ul>
+
 <h3>Projects I am proud of</h3>
 <ul>
     <li><a href="https://github.com/yashpandey002/yash-server">Yash's Server</a> - A full-stack application for adding and viewing user profiles.</li>
@@ -10,6 +17,7 @@
     <li><a href="https://github.com/yashpandey002/esketch">Esketch</a> - Browser version of something between a sketchpad and an Etch-A-Sketch. Built with Vanilla Javascript.</li>
     <li><a href="https://github.com/yashpandey002/TaskOn">Rock Paper Scissors Game</a> - Famous Rock Paper Scissors game built using Vanilla Javascript.</li>
 </ul>
+
 <h3>My Skiilset</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" width="40" height="40" />
@@ -62,6 +70,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </a>
+
 <h3>Find me around the web 🌎:</h3>
 <a href="https://twitter.com/pandeyyash_" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="pandeyyash_" height="30" width="40" />
