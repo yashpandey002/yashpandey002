@@ -2,6 +2,7 @@
 <p>A CS undergrad who loves to build things using DESIGN & CODE. Enthusiastic about Computer science, Web development, Cloud computing, and UI design. Committed to open source contributions and constantly learning. And ya programmer with a love for football⚽>>></p>
 <h3>Projects I worked/working on</h3>
 <ul>
+    <li><a href="https://github.com/yashpandey002/yash-server">Yash's Server</a> - A full-stack application for adding and viewing user profiles.</li>
     <li><a href="https://github.com/yashpandey002/resume-builder">Tech Resume Builder</a> - Build your Tech Resume by just entering your details.</li>
     <li><a href="https://github.com/yashpandey002/react-to-do-app">React TODO App</a> - A Simple to-do app built using React.</li>
     <li><a href="https://github.com/yashpandey002/countrify">Countrify</a> - A simple app to search for any country's information using REST COUNTRIES API.</li>
@@ -10,7 +11,7 @@
 <!--     <li><a href="https://github.com/yashpandey002/TaskOn">TaskOn</a> - A TODO app with CRUD functionality.</li>
     <li><a href="https://github.com/yashpandey002/Omnifood">Omnifood</a> - A landing page website for Food-AI-recommendation startup.</li>
     <li><a href="https://github.com/yashpandey002/Devity">Devity</a> - A simple landing page for creative digital agency.</li>
-    <li><a href="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especialy to support old browsers.</li> -->
+    <li><a href="https://github.com/yashpandey002/FixAllFirst">FixAllFirst</a> - Website for house repairing services built especially to support old browsers.</li> -->
 </ul>
 <h3>My Skiilset</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
