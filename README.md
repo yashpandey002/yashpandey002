@@ -10,7 +10,7 @@
 - Interested in CS, Web dev, Cloud computing, and UI design.
 - Football⚽>>>
 
-## Projects I am proud of
+## My Projects
 
 - [Yash's Server](https://github.com/yashpandey002/yash-server) - A full-stack application for adding and viewing user profiles.
 - [Tech Resume Builder(In progress)](https://github.com/yashpandey002/resume-builder) - Build your Tech Resume by just entering your details.
