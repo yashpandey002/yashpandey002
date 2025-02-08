@@ -1,5 +1,5 @@
 #### Hey there 👋
-###I'm Yash Pandey
+### I'm Yash Pandey
 - A Full-stack developer and fun loving person who loves to build problem solving stuff.
 - Proficient in React, Tailwind CSS, Express.js, Node.js, PostgreSQL, MySQL, MongoDB, Redis, and WebSockets.
 
